@@ -1,7 +1,7 @@
-public class demo{
-  public static void main(String[] args){
-    system.out.println("hello world");
-  
-  }
+public class hello{
+ public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
 
 }
